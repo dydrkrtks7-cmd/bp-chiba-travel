@@ -6,72 +6,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/checklist-009-1bw1dmi.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/compare-008-375hm8.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/field_note-005-109tfxc.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260705-209.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0363.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0364.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0365.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0366.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0367.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0368.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0369.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0370.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0371.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0372.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -82,76 +17,6 @@
   </url>
   <url>
     <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0374.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0375.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0376.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0377.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260721-0426.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260721-0427.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260721-0428.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260721-0429.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260721-0430.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0177.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0178.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0179.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0180.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0181.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0182.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -171,22 +36,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0186.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0187.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260731-0003.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/gemini-coverage-20260731-0013.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -201,52 +51,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/interview-002-17c7xdn.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/myth-001-1v7b9sy.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/qa-007-x4szzh.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/review-001-zt3wb1.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/review-004-yave6b.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/t3link-002-1xsv0lq.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts/t3link-003-fg2y3l.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://chiba-travel-guide.mapo-room-guide.xyz/posts-3.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
